@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace harjoituksia_2
 {
@@ -6,7 +7,7 @@ namespace harjoituksia_2
     {
         static void Main(string[] args)
         {
-            int x, y, z;
+            int x, y, z, o, p;
             Console.WriteLine("Anna luku x");
             x = GetNumb();
             Console.WriteLine("Anna luku y");
@@ -28,6 +29,17 @@ namespace harjoituksia_2
             NumbAsWord(y);
             NumbAsWord(z);
 
+            Console.WriteLine("Anna luku o");
+            o = GetNumb();
+            Console.WriteLine("Anna luku p");
+            p = GetNumb();
+            BiggestFive(x, y, z, o, p);
+
+            ChooseType();
+
+
+
+
 
 
 
@@ -45,10 +57,10 @@ namespace harjoituksia_2
         {
             Console.WriteLine(Math.Max(Math.Max(x, y), z));
         }
-        
+
         static void NumbAsWord(int x)
         {
-            switch( x)
+            switch (x)
             {
                 case 0:
                     Console.WriteLine("Nolla");
@@ -82,8 +94,44 @@ namespace harjoituksia_2
                     break;
                 default:
                     Console.WriteLine("numero {0} ei ole 0-9 väliltä", x);
-                        break;
+                    break;
             }
+        }
+        static void BiggestFive(int x, int y, int z, int o, int p)
+        {
+            int[] numbers = { x, y, z, o, p };
+            int biggestNumber = numbers.Max();
+            Console.WriteLine("Suurin numero {0}", biggestNumber);
+        } 
+        
+        static void ChooseType()
+        {
+            string valitse = "";
+            while (valitse == "") ;
+            Console.WriteLine("Haluatko antaa kokonaisluvun, douple-luvun vai merkkijonon?");
+            Console.WriteLine("Kokonaisluku  = int ");
+            Console.WriteLine("douple-luku = douple");
+            Console.WriteLine("Merkkijono = String");
+            valitse = Console.ReadLine();
+            switch (valitse)
+            {
+                case "kokonaisluku":
+                    case "int":
+                        case "1":
+                    Console.WriteLine("anna suuri luku");
+                    int luku = Console.ReadLine();
+                    Console.WriteLine("Kasvatin lukua yhdellä" + (luku +1));
+                case "douple":
+                case "douple-luku":
+                case "2":
+
+                    Console.WriteLine("Kasvatin douple- lukua yhdellä" + valitse + 1);
+                case "merkkijono":
+                case "string":
+                case "3":
+                    Console.WriteLine("Lisäsin * merkin loppuun", valitse)
+            }
+                
         }
     }
 }
