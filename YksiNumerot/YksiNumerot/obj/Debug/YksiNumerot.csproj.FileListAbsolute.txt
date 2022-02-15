@@ -1,0 +1,7 @@
+C:\Users\Okehittaja\source\repot\Ohjelmistokehittaja\YksiNumerot\YksiNumerot\obj\Debug\YksiNumerot.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okehittaja\source\repot\Ohjelmistokehittaja\YksiNumerot\YksiNumerot\obj\Debug\YksiNumerot.csproj.CoreCompileInputs.cache
+C:\Users\Okehittaja\source\repot\Ohjelmistokehittaja\YksiNumerot\YksiNumerot\bin\Debug\YksiNumerot.exe.config
+C:\Users\Okehittaja\source\repot\Ohjelmistokehittaja\YksiNumerot\YksiNumerot\bin\Debug\YksiNumerot.exe
+C:\Users\Okehittaja\source\repot\Ohjelmistokehittaja\YksiNumerot\YksiNumerot\bin\Debug\YksiNumerot.pdb
+C:\Users\Okehittaja\source\repot\Ohjelmistokehittaja\YksiNumerot\YksiNumerot\obj\Debug\YksiNumerot.exe
+C:\Users\Okehittaja\source\repot\Ohjelmistokehittaja\YksiNumerot\YksiNumerot\obj\Debug\YksiNumerot.pdb

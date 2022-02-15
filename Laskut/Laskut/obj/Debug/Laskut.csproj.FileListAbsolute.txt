@@ -1,0 +1,8 @@
+C:\Users\Okehittaja\source\repot\Ohjelmistokehittaja\Laskut\Laskut\bin\Debug\Laskut.exe.config
+C:\Users\Okehittaja\source\repot\Ohjelmistokehittaja\Laskut\Laskut\bin\Debug\Laskut.exe
+C:\Users\Okehittaja\source\repot\Ohjelmistokehittaja\Laskut\Laskut\bin\Debug\Laskut.pdb
+C:\Users\Okehittaja\source\repot\Ohjelmistokehittaja\Laskut\Laskut\obj\Debug\Laskut.csproj.AssemblyReference.cache
+C:\Users\Okehittaja\source\repot\Ohjelmistokehittaja\Laskut\Laskut\obj\Debug\Laskut.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okehittaja\source\repot\Ohjelmistokehittaja\Laskut\Laskut\obj\Debug\Laskut.csproj.CoreCompileInputs.cache
+C:\Users\Okehittaja\source\repot\Ohjelmistokehittaja\Laskut\Laskut\obj\Debug\Laskut.exe
+C:\Users\Okehittaja\source\repot\Ohjelmistokehittaja\Laskut\Laskut\obj\Debug\Laskut.pdb

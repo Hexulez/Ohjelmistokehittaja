@@ -1,0 +1,8 @@
+C:\Users\Okehittaja\source\repot\Ohjelmistokehittaja\OmaNimi\OmaNimi\bin\Debug\OmaNimi.exe.config
+C:\Users\Okehittaja\source\repot\Ohjelmistokehittaja\OmaNimi\OmaNimi\bin\Debug\OmaNimi.exe
+C:\Users\Okehittaja\source\repot\Ohjelmistokehittaja\OmaNimi\OmaNimi\bin\Debug\OmaNimi.pdb
+C:\Users\Okehittaja\source\repot\Ohjelmistokehittaja\OmaNimi\OmaNimi\obj\Debug\OmaNimi.csproj.AssemblyReference.cache
+C:\Users\Okehittaja\source\repot\Ohjelmistokehittaja\OmaNimi\OmaNimi\obj\Debug\OmaNimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okehittaja\source\repot\Ohjelmistokehittaja\OmaNimi\OmaNimi\obj\Debug\OmaNimi.csproj.CoreCompileInputs.cache
+C:\Users\Okehittaja\source\repot\Ohjelmistokehittaja\OmaNimi\OmaNimi\obj\Debug\OmaNimi.exe
+C:\Users\Okehittaja\source\repot\Ohjelmistokehittaja\OmaNimi\OmaNimi\obj\Debug\OmaNimi.pdb
