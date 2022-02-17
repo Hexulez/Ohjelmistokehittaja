@@ -7,6 +7,9 @@ namespace harjoituksia_2
     {
         static void Main(string[] args)
         {
+
+
+
             int x, y, z, o, p;      //Määrittelee muuttujat mitä käytämme
             Console.WriteLine("Anna luku x");
             x = GetNumb();  // funktio joka muuttaa annetut merkit numeroiksi
@@ -214,44 +217,32 @@ namespace harjoituksia_2
             }
         }
 
+        //kirjoittaa numerot sanoiksi
         static void KirjoitaNumerot()
         {
             Console.WriteLine("anna numero niin kirjoitan sen kirjaimilla");
             int numero = GetNumb();
             string numeroSanana = Convert.ToString(numero);
-            string sana = "";
-            string testiSana = "";
+            string sana, testiSana;
             
-            switch (numeroSanana.Length)
+            
+            switch (numeroSanana.Length) //tarkistaa sanojen pituuden
             {
                 case 1:
-                    sana = ykkoset(numeroSanana[0]);
+                    sana = ykkoset(numeroSanana[0]);  //kutsuu funktion joka hoitaa ykköset
                     break;
                 case 2:
-                    sana = Kymmenet(numeroSanana[0]);
-                    testiSana = ykkoset(numeroSanana[1]);
-                    sana = checkTens(sana, testiSana);
-                    /*
-                    if (sana == "toista" && testiSana == "Nolla")
-                    {
-                        sana = "kymmenen";
-                    }
-                    else if (sana == "toista")
-                    {
-                        sana = testiSana + "toista";
-                    }
-                    else if(testiSana != "Nolla")
-                    {
-                        sana += testiSana;
-                    }
-                    */
+                    sana = Kymmenet(numeroSanana[0]); //kutsuu funktion joka hoitaa kymmenet
+                    testiSana = ykkoset(numeroSanana[1]); // kutsuu funktion joka hoitaa ykköset
+                    sana = checkTens(sana, testiSana);  //tarkistaa poikkeukset
+                    
                     break;
 
                 case 3:
-                    sana = Kymmenet(numeroSanana[1]);
-                    testiSana = ykkoset(numeroSanana[2]);
-                    sana = checkTens(sana, testiSana);
-                    sana = sana.Insert(0, sadat(numeroSanana[0]));
+                    sana = Kymmenet(numeroSanana[1]); //kutsuu kymmenet
+                    testiSana = ykkoset(numeroSanana[2]);   //kutsuu ykköset
+                    sana = checkTens(sana, testiSana);  //tarkistaa poikkeukset
+                    sana = sana.Insert(0, sadat(numeroSanana[0]));  //laittaa sadat funktion tuloksen muuttujan alkuun.
                     break;
                 default:
                     sana = "liian iso luku anna pienempi";
@@ -265,6 +256,7 @@ namespace harjoituksia_2
             
         }
 
+        //palauttaa ykköset sanoina
         static string ykkoset(char x)
         {
             switch (x)
@@ -292,6 +284,7 @@ namespace harjoituksia_2
             }
         }
 
+        //palauttaa kymmenet sanoina
         static string Kymmenet(char x)
         {
             switch (x)
@@ -318,6 +311,8 @@ namespace harjoituksia_2
                     return "";
             }
         }
+
+        //tarkista ja kymmenet ja hoitaa poikkeukset
         static string checkTens(string sana, string testiSana)
         {   
             if (sana == "toista" && testiSana == "Nolla")
@@ -338,6 +333,8 @@ namespace harjoituksia_2
             }
         }
 
+
+        //palauttaa satojen arvon 
         static string sadat(char x)
         {
             switch (x)
