@@ -1,0 +1,17 @@
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\CRUD-projekti\CRUD-projekti\bin\Debug\net6.0-windows\CRUD-projekti.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\CRUD-projekti\CRUD-projekti\bin\Debug\net6.0-windows\CRUD-projekti.deps.json
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\CRUD-projekti\CRUD-projekti\bin\Debug\net6.0-windows\CRUD-projekti.runtimeconfig.json
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\CRUD-projekti\CRUD-projekti\bin\Debug\net6.0-windows\CRUD-projekti.dll
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\CRUD-projekti\CRUD-projekti\bin\Debug\net6.0-windows\CRUD-projekti.pdb
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\CRUD-projekti\CRUD-projekti\obj\Debug\net6.0-windows\CRUD-projekti.csproj.AssemblyReference.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\CRUD-projekti\CRUD-projekti\obj\Debug\net6.0-windows\CRUD_projekti.Form1.resources
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\CRUD-projekti\CRUD-projekti\obj\Debug\net6.0-windows\CRUD-projekti.csproj.GenerateResource.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\CRUD-projekti\CRUD-projekti\obj\Debug\net6.0-windows\CRUD-projekti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\CRUD-projekti\CRUD-projekti\obj\Debug\net6.0-windows\CRUD-projekti.AssemblyInfoInputs.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\CRUD-projekti\CRUD-projekti\obj\Debug\net6.0-windows\CRUD-projekti.AssemblyInfo.cs
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\CRUD-projekti\CRUD-projekti\obj\Debug\net6.0-windows\CRUD-projekti.csproj.CoreCompileInputs.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\CRUD-projekti\CRUD-projekti\obj\Debug\net6.0-windows\CRUD-projekti.dll
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\CRUD-projekti\CRUD-projekti\obj\Debug\net6.0-windows\refint\CRUD-projekti.dll
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\CRUD-projekti\CRUD-projekti\obj\Debug\net6.0-windows\CRUD-projekti.pdb
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\CRUD-projekti\CRUD-projekti\obj\Debug\net6.0-windows\CRUD-projekti.genruntimeconfig.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\CRUD-projekti\CRUD-projekti\obj\Debug\net6.0-windows\ref\CRUD-projekti.dll
