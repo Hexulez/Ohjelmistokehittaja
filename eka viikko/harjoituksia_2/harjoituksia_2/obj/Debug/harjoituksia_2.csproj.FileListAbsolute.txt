@@ -6,3 +6,11 @@ C:\Users\Okehittaja\source\repot\Ohjelmistokehittaja\harjoituksia_2\harjoituksia
 C:\Users\Okehittaja\source\repot\Ohjelmistokehittaja\harjoituksia_2\harjoituksia_2\obj\Debug\harjoituksia_2.csproj.CoreCompileInputs.cache
 C:\Users\Okehittaja\source\repot\Ohjelmistokehittaja\harjoituksia_2\harjoituksia_2\obj\Debug\harjoituksia_2.exe
 C:\Users\Okehittaja\source\repot\Ohjelmistokehittaja\harjoituksia_2\harjoituksia_2\obj\Debug\harjoituksia_2.pdb
+C:\Users\Hexulez\Source\Repos\Ohjelmistokehittaja\eka viikko\harjoituksia_2\harjoituksia_2\bin\Debug\harjoituksia_2.exe.config
+C:\Users\Hexulez\Source\Repos\Ohjelmistokehittaja\eka viikko\harjoituksia_2\harjoituksia_2\bin\Debug\harjoituksia_2.exe
+C:\Users\Hexulez\Source\Repos\Ohjelmistokehittaja\eka viikko\harjoituksia_2\harjoituksia_2\bin\Debug\harjoituksia_2.pdb
+C:\Users\Hexulez\Source\Repos\Ohjelmistokehittaja\eka viikko\harjoituksia_2\harjoituksia_2\obj\Debug\harjoituksia_2.csproj.AssemblyReference.cache
+C:\Users\Hexulez\Source\Repos\Ohjelmistokehittaja\eka viikko\harjoituksia_2\harjoituksia_2\obj\Debug\harjoituksia_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hexulez\Source\Repos\Ohjelmistokehittaja\eka viikko\harjoituksia_2\harjoituksia_2\obj\Debug\harjoituksia_2.csproj.CoreCompileInputs.cache
+C:\Users\Hexulez\Source\Repos\Ohjelmistokehittaja\eka viikko\harjoituksia_2\harjoituksia_2\obj\Debug\harjoituksia_2.exe
+C:\Users\Hexulez\Source\Repos\Ohjelmistokehittaja\eka viikko\harjoituksia_2\harjoituksia_2\obj\Debug\harjoituksia_2.pdb

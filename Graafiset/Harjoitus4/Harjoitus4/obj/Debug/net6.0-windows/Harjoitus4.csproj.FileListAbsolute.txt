@@ -1,0 +1,17 @@
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Harjoitus4\Harjoitus4\bin\Debug\net6.0-windows\Harjoitus4.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Harjoitus4\Harjoitus4\bin\Debug\net6.0-windows\Harjoitus4.deps.json
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Harjoitus4\Harjoitus4\bin\Debug\net6.0-windows\Harjoitus4.runtimeconfig.json
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Harjoitus4\Harjoitus4\bin\Debug\net6.0-windows\Harjoitus4.dll
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Harjoitus4\Harjoitus4\bin\Debug\net6.0-windows\Harjoitus4.pdb
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Harjoitus4\Harjoitus4\obj\Debug\net6.0-windows\Harjoitus4.csproj.AssemblyReference.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Harjoitus4\Harjoitus4\obj\Debug\net6.0-windows\Harjoitus4.Form1.resources
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Harjoitus4\Harjoitus4\obj\Debug\net6.0-windows\Harjoitus4.csproj.GenerateResource.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Harjoitus4\Harjoitus4\obj\Debug\net6.0-windows\Harjoitus4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Harjoitus4\Harjoitus4\obj\Debug\net6.0-windows\Harjoitus4.AssemblyInfoInputs.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Harjoitus4\Harjoitus4\obj\Debug\net6.0-windows\Harjoitus4.AssemblyInfo.cs
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Harjoitus4\Harjoitus4\obj\Debug\net6.0-windows\Harjoitus4.csproj.CoreCompileInputs.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Harjoitus4\Harjoitus4\obj\Debug\net6.0-windows\Harjoitus4.dll
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Harjoitus4\Harjoitus4\obj\Debug\net6.0-windows\refint\Harjoitus4.dll
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Harjoitus4\Harjoitus4\obj\Debug\net6.0-windows\Harjoitus4.pdb
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Harjoitus4\Harjoitus4\obj\Debug\net6.0-windows\Harjoitus4.genruntimeconfig.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Harjoitus4\Harjoitus4\obj\Debug\net6.0-windows\ref\Harjoitus4.dll

@@ -1,0 +1,8 @@
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\Multithread_test\Multithread_test\bin\Debug\Multithread_test.exe.config
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\Multithread_test\Multithread_test\bin\Debug\Multithread_test.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\Multithread_test\Multithread_test\bin\Debug\Multithread_test.pdb
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\Multithread_test\Multithread_test\obj\Debug\Multithread_test.csproj.AssemblyReference.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\Multithread_test\Multithread_test\obj\Debug\Multithread_test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\Multithread_test\Multithread_test\obj\Debug\Multithread_test.csproj.CoreCompileInputs.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\Multithread_test\Multithread_test\obj\Debug\Multithread_test.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\Multithread_test\Multithread_test\obj\Debug\Multithread_test.pdb
