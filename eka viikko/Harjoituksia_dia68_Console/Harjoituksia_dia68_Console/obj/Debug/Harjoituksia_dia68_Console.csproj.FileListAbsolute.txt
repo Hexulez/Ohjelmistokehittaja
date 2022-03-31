@@ -1,0 +1,8 @@
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\eka viikko\Harjoituksia_dia68_Console\Harjoituksia_dia68_Console\bin\Debug\Harjoituksia_dia68_Console.exe.config
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\eka viikko\Harjoituksia_dia68_Console\Harjoituksia_dia68_Console\bin\Debug\Harjoituksia_dia68_Console.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\eka viikko\Harjoituksia_dia68_Console\Harjoituksia_dia68_Console\bin\Debug\Harjoituksia_dia68_Console.pdb
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\eka viikko\Harjoituksia_dia68_Console\Harjoituksia_dia68_Console\obj\Debug\Harjoituksia_dia68_Console.csproj.AssemblyReference.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\eka viikko\Harjoituksia_dia68_Console\Harjoituksia_dia68_Console\obj\Debug\Harjoituksia_dia68_Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\eka viikko\Harjoituksia_dia68_Console\Harjoituksia_dia68_Console\obj\Debug\Harjoituksia_dia68_Console.csproj.CoreCompileInputs.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\eka viikko\Harjoituksia_dia68_Console\Harjoituksia_dia68_Console\obj\Debug\Harjoituksia_dia68_Console.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\eka viikko\Harjoituksia_dia68_Console\Harjoituksia_dia68_Console\obj\Debug\Harjoituksia_dia68_Console.pdb

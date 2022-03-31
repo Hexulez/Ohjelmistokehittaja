@@ -1,0 +1,11 @@
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Harjoitus12_10Kysymystä\Harjoitus12_10Kysymystä\bin\Debug\Harjoitus12_10Kysymystä.exe.config
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Harjoitus12_10Kysymystä\Harjoitus12_10Kysymystä\bin\Debug\Harjoitus12_10Kysymystä.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Harjoitus12_10Kysymystä\Harjoitus12_10Kysymystä\bin\Debug\Harjoitus12_10Kysymystä.pdb
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Harjoitus12_10Kysymystä\Harjoitus12_10Kysymystä\obj\Debug\Harjoitus12_10Kysymystä.csproj.AssemblyReference.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Harjoitus12_10Kysymystä\Harjoitus12_10Kysymystä\obj\Debug\Harjoitus12_10Kysymystä.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Harjoitus12_10Kysymystä\Harjoitus12_10Kysymystä\obj\Debug\Harjoitus12_10Kysymystä.Form1.resources
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Harjoitus12_10Kysymystä\Harjoitus12_10Kysymystä\obj\Debug\Harjoitus12_10Kysymystä.Properties.Resources.resources
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Harjoitus12_10Kysymystä\Harjoitus12_10Kysymystä\obj\Debug\Harjoitus12_10Kysymystä.csproj.GenerateResource.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Harjoitus12_10Kysymystä\Harjoitus12_10Kysymystä\obj\Debug\Harjoitus12_10Kysymystä.csproj.CoreCompileInputs.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Harjoitus12_10Kysymystä\Harjoitus12_10Kysymystä\obj\Debug\Harjoitus12_10Kysymystä.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Harjoitus12_10Kysymystä\Harjoitus12_10Kysymystä\obj\Debug\Harjoitus12_10Kysymystä.pdb

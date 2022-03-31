@@ -1,0 +1,11 @@
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä7_Autolaskuri\Tehtävä7_Autolaskuri\bin\Debug\Tehtävä7_Autolaskuri.exe.config
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä7_Autolaskuri\Tehtävä7_Autolaskuri\bin\Debug\Tehtävä7_Autolaskuri.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä7_Autolaskuri\Tehtävä7_Autolaskuri\bin\Debug\Tehtävä7_Autolaskuri.pdb
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä7_Autolaskuri\Tehtävä7_Autolaskuri\obj\Debug\Tehtävä7_Autolaskuri.csproj.AssemblyReference.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä7_Autolaskuri\Tehtävä7_Autolaskuri\obj\Debug\Tehtävä7_Autolaskuri.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä7_Autolaskuri\Tehtävä7_Autolaskuri\obj\Debug\Tehtävä7_Autolaskuri.form1.resources
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä7_Autolaskuri\Tehtävä7_Autolaskuri\obj\Debug\Tehtävä7_Autolaskuri.Properties.Resources.resources
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä7_Autolaskuri\Tehtävä7_Autolaskuri\obj\Debug\Tehtävä7_Autolaskuri.csproj.GenerateResource.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä7_Autolaskuri\Tehtävä7_Autolaskuri\obj\Debug\Tehtävä7_Autolaskuri.csproj.CoreCompileInputs.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä7_Autolaskuri\Tehtävä7_Autolaskuri\obj\Debug\Tehtävä7_Autolaskuri.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä7_Autolaskuri\Tehtävä7_Autolaskuri\obj\Debug\Tehtävä7_Autolaskuri.pdb

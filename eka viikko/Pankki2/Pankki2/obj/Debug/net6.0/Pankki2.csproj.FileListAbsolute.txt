@@ -1,0 +1,15 @@
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\eka viikko\Pankki2\Pankki2\bin\Debug\net6.0\Pankki2.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\eka viikko\Pankki2\Pankki2\bin\Debug\net6.0\Pankki2.deps.json
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\eka viikko\Pankki2\Pankki2\bin\Debug\net6.0\Pankki2.runtimeconfig.json
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\eka viikko\Pankki2\Pankki2\bin\Debug\net6.0\Pankki2.dll
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\eka viikko\Pankki2\Pankki2\bin\Debug\net6.0\Pankki2.pdb
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\eka viikko\Pankki2\Pankki2\obj\Debug\net6.0\Pankki2.csproj.AssemblyReference.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\eka viikko\Pankki2\Pankki2\obj\Debug\net6.0\Pankki2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\eka viikko\Pankki2\Pankki2\obj\Debug\net6.0\Pankki2.AssemblyInfoInputs.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\eka viikko\Pankki2\Pankki2\obj\Debug\net6.0\Pankki2.AssemblyInfo.cs
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\eka viikko\Pankki2\Pankki2\obj\Debug\net6.0\Pankki2.csproj.CoreCompileInputs.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\eka viikko\Pankki2\Pankki2\obj\Debug\net6.0\Pankki2.dll
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\eka viikko\Pankki2\Pankki2\obj\Debug\net6.0\refint\Pankki2.dll
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\eka viikko\Pankki2\Pankki2\obj\Debug\net6.0\Pankki2.pdb
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\eka viikko\Pankki2\Pankki2\obj\Debug\net6.0\Pankki2.genruntimeconfig.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\eka viikko\Pankki2\Pankki2\obj\Debug\net6.0\ref\Pankki2.dll

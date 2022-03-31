@@ -1,0 +1,8 @@
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\eka viikko\Pankki\Pankki\obj\Debug\Pankki.csproj.AssemblyReference.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\eka viikko\Pankki\Pankki\obj\Debug\Pankki.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\eka viikko\Pankki\Pankki\obj\Debug\Pankki.csproj.CoreCompileInputs.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\eka viikko\Pankki\Pankki\bin\Debug\Pankki.exe.config
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\eka viikko\Pankki\Pankki\bin\Debug\Pankki.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\eka viikko\Pankki\Pankki\bin\Debug\Pankki.pdb
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\eka viikko\Pankki\Pankki\obj\Debug\Pankki.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\eka viikko\Pankki\Pankki\obj\Debug\Pankki.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lämpötilan_muunnin", "Lämpötilan_muunnin\Lämpötilan_muunnin.csproj", "{2CCE6837-873E-491E-A361-5C06E3BFAB7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CCE6837-873E-491E-A361-5C06E3BFAB7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CCE6837-873E-491E-A361-5C06E3BFAB7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CCE6837-873E-491E-A361-5C06E3BFAB7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CCE6837-873E-491E-A361-5C06E3BFAB7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D315B95-E6C6-4328-984F-688AD76328DC}
+	EndGlobalSection
+EndGlobal

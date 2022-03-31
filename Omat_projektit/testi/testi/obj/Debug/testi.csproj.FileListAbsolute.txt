@@ -1,0 +1,12 @@
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Omat_projektit\testi\testi\bin\Debug\testi.exe.config
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Omat_projektit\testi\testi\bin\Debug\testi.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Omat_projektit\testi\testi\bin\Debug\testi.pdb
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Omat_projektit\testi\testi\obj\Debug\testi.csproj.AssemblyReference.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Omat_projektit\testi\testi\obj\Debug\testi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Omat_projektit\testi\testi\obj\Debug\testi.Form1.resources
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Omat_projektit\testi\testi\obj\Debug\testi.Properties.Resources.resources
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Omat_projektit\testi\testi\obj\Debug\testi.csproj.GenerateResource.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Omat_projektit\testi\testi\obj\Debug\testi.csproj.CoreCompileInputs.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Omat_projektit\testi\testi\obj\Debug\testi.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Omat_projektit\testi\testi\obj\Debug\testi.pdb
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Omat_projektit\testi\testi\obj\Debug\testi.Form3.resources

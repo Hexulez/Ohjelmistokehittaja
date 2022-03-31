@@ -1,0 +1,11 @@
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Lämpötilan_muunnin\Lämpötilan_muunnin\bin\Debug\Lämpötilan_muunnin.exe.config
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Lämpötilan_muunnin\Lämpötilan_muunnin\bin\Debug\Lämpötilan_muunnin.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Lämpötilan_muunnin\Lämpötilan_muunnin\bin\Debug\Lämpötilan_muunnin.pdb
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Lämpötilan_muunnin\Lämpötilan_muunnin\obj\Debug\Lämpötilan_muunnin.csproj.AssemblyReference.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Lämpötilan_muunnin\Lämpötilan_muunnin\obj\Debug\Lämpötilan_muunnin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Lämpötilan_muunnin\Lämpötilan_muunnin\obj\Debug\Lämpötilan_muunnin.Form1.resources
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Lämpötilan_muunnin\Lämpötilan_muunnin\obj\Debug\Lämpötilan_muunnin.Properties.Resources.resources
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Lämpötilan_muunnin\Lämpötilan_muunnin\obj\Debug\Lämpötilan_muunnin.csproj.GenerateResource.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Lämpötilan_muunnin\Lämpötilan_muunnin\obj\Debug\Lämpötilan_muunnin.csproj.CoreCompileInputs.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Lämpötilan_muunnin\Lämpötilan_muunnin\obj\Debug\Lämpötilan_muunnin.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Lämpötilan_muunnin\Lämpötilan_muunnin\obj\Debug\Lämpötilan_muunnin.pdb

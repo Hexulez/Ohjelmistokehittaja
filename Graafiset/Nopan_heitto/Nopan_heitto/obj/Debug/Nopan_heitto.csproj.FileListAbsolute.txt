@@ -1,0 +1,11 @@
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Nopan_heitto\Nopan_heitto\bin\Debug\Nopan_heitto.exe.config
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Nopan_heitto\Nopan_heitto\bin\Debug\Nopan_heitto.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Nopan_heitto\Nopan_heitto\bin\Debug\Nopan_heitto.pdb
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Nopan_heitto\Nopan_heitto\obj\Debug\Nopan_heitto.csproj.AssemblyReference.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Nopan_heitto\Nopan_heitto\obj\Debug\Nopan_heitto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Nopan_heitto\Nopan_heitto\obj\Debug\Nopan_heitto.Form1.resources
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Nopan_heitto\Nopan_heitto\obj\Debug\Nopan_heitto.Properties.Resources.resources
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Nopan_heitto\Nopan_heitto\obj\Debug\Nopan_heitto.csproj.GenerateResource.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Nopan_heitto\Nopan_heitto\obj\Debug\Nopan_heitto.csproj.CoreCompileInputs.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Nopan_heitto\Nopan_heitto\obj\Debug\Nopan_heitto.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Nopan_heitto\Nopan_heitto\obj\Debug\Nopan_heitto.pdb

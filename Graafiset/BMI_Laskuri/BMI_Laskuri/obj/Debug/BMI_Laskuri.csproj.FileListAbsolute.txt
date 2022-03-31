@@ -1,0 +1,11 @@
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\BMI_Laskuri\BMI_Laskuri\obj\Debug\BMI_Laskuri.csproj.AssemblyReference.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\BMI_Laskuri\BMI_Laskuri\obj\Debug\BMI_Laskuri.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\BMI_Laskuri\BMI_Laskuri\obj\Debug\BMI_Laskuri.Form1.resources
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\BMI_Laskuri\BMI_Laskuri\obj\Debug\BMI_Laskuri.Properties.Resources.resources
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\BMI_Laskuri\BMI_Laskuri\obj\Debug\BMI_Laskuri.csproj.GenerateResource.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\BMI_Laskuri\BMI_Laskuri\obj\Debug\BMI_Laskuri.csproj.CoreCompileInputs.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\BMI_Laskuri\BMI_Laskuri\bin\Debug\BMI_Laskuri.exe.config
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\BMI_Laskuri\BMI_Laskuri\bin\Debug\BMI_Laskuri.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\BMI_Laskuri\BMI_Laskuri\bin\Debug\BMI_Laskuri.pdb
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\BMI_Laskuri\BMI_Laskuri\obj\Debug\BMI_Laskuri.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\BMI_Laskuri\BMI_Laskuri\obj\Debug\BMI_Laskuri.pdb
