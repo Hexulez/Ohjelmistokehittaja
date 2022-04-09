@@ -1,0 +1,11 @@
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä18_Kahvio\Tehtävä18_Kahvio\bin\Debug\Tehtävä18_Kahvio.exe.config
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä18_Kahvio\Tehtävä18_Kahvio\bin\Debug\Tehtävä18_Kahvio.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä18_Kahvio\Tehtävä18_Kahvio\bin\Debug\Tehtävä18_Kahvio.pdb
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä18_Kahvio\Tehtävä18_Kahvio\obj\Debug\Tehtävä18_Kahvio.csproj.AssemblyReference.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä18_Kahvio\Tehtävä18_Kahvio\obj\Debug\Tehtävä18_Kahvio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä18_Kahvio\Tehtävä18_Kahvio\obj\Debug\Tehtävä18_Kahvio.Form1.resources
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä18_Kahvio\Tehtävä18_Kahvio\obj\Debug\Tehtävä18_Kahvio.Properties.Resources.resources
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä18_Kahvio\Tehtävä18_Kahvio\obj\Debug\Tehtävä18_Kahvio.csproj.GenerateResource.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä18_Kahvio\Tehtävä18_Kahvio\obj\Debug\Tehtävä18_Kahvio.csproj.CoreCompileInputs.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä18_Kahvio\Tehtävä18_Kahvio\obj\Debug\Tehtävä18_Kahvio.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä18_Kahvio\Tehtävä18_Kahvio\obj\Debug\Tehtävä18_Kahvio.pdb

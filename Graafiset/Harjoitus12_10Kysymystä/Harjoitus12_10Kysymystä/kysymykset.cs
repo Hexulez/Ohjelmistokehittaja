@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace Harjoitus12_10Kysymystä
 {
+
+    
+    // kysymyksille tehty luokka josta on helppo löytää ja vaihtaa eri kysymykset
+    
     internal class Kysymykset
     {
         string[] kysy = 
@@ -20,7 +24,7 @@ namespace Harjoitus12_10Kysymystä
             "mikä 8", 
             "mikä 9", 
             "mikä 10",
-            "Ding ding ding" 
+            "Ding ding ding" //täyterivi
         };
         
         string[] oikeatVastaukset = 
@@ -35,22 +39,23 @@ namespace Harjoitus12_10Kysymystä
             "oikea8", 
             "oikea9", 
             "oikea10",
-            "ding" 
+            "ding" //täyterivi
         };
         
+        //väärät vaihtoehdot 
         string[,] vaihtoehdot = 
         {
             { "väärä1/1", "väärä2/1", "väärä3/1" },
             { "väärä1/2", "väärä2/2", "väärä3/2" },
             { "väärä1/3", "väärä2/3", "väärä3/3" },
-            { "väärä1/1", "väärä2/1", "väärä3/1" },
-            { "väärä1/2", "väärä2/2", "väärä3/2" },
-            { "väärä1/3", "väärä2/3", "väärä3/3" },
-            { "väärä1/1", "väärä2/1", "väärä3/1" },
-            { "väärä1/2", "väärä2/2", "väärä3/2" },
-            { "väärä1/3", "väärä2/3", "väärä3/3" },
-            { "väärä1/1", "väärä2/1", "väärä3/1" },
-            { "ding", "ding", "ding" }
+            { "väärä1/4", "väärä2/4", "väärä3/4" },
+            { "väärä1/5", "väärä2/5", "väärä3/5" },
+            { "väärä1/6", "väärä2/6", "väärä3/6" },
+            { "väärä1/7", "väärä2/7", "väärä3/7" },
+            { "väärä1/8", "väärä2/8", "väärä3/8" },
+            { "väärä1/9", "väärä2/9", "väärä3/9" },
+            { "väärä1/10", "väärä2/10", "väärä3/10" },
+            { "ding", "ding", "ding" } // täyterivi
             
         };
             
@@ -70,6 +75,8 @@ namespace Harjoitus12_10Kysymystä
         { 
             return vaihtoehdot[y, x]; 
         }
+
+        
         public string Kysy(int x)
         {
             return kysy[x];

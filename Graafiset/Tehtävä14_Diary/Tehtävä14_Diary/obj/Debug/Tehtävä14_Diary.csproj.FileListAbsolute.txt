@@ -1,0 +1,11 @@
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä14_Diary\Tehtävä14_Diary\bin\Debug\Tehtävä14_Diary.exe.config
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä14_Diary\Tehtävä14_Diary\bin\Debug\Tehtävä14_Diary.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä14_Diary\Tehtävä14_Diary\bin\Debug\Tehtävä14_Diary.pdb
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä14_Diary\Tehtävä14_Diary\obj\Debug\Tehtävä14_Diary.csproj.AssemblyReference.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä14_Diary\Tehtävä14_Diary\obj\Debug\Tehtävä14_Diary.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä14_Diary\Tehtävä14_Diary\obj\Debug\Tehtävä14_Diary.Form1.resources
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä14_Diary\Tehtävä14_Diary\obj\Debug\Tehtävä14_Diary.Properties.Resources.resources
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä14_Diary\Tehtävä14_Diary\obj\Debug\Tehtävä14_Diary.csproj.GenerateResource.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä14_Diary\Tehtävä14_Diary\obj\Debug\Tehtävä14_Diary.csproj.CoreCompileInputs.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä14_Diary\Tehtävä14_Diary\obj\Debug\Tehtävä14_Diary.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä14_Diary\Tehtävä14_Diary\obj\Debug\Tehtävä14_Diary.pdb

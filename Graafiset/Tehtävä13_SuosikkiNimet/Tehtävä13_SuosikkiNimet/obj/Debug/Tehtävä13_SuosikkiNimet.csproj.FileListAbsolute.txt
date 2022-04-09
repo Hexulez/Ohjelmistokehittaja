@@ -1,0 +1,11 @@
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä13_SuosikkiNimet\Tehtävä13_SuosikkiNimet\obj\Debug\Tehtävä13_SuosikkiNimet.csproj.AssemblyReference.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä13_SuosikkiNimet\Tehtävä13_SuosikkiNimet\obj\Debug\Tehtävä13_SuosikkiNimet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä13_SuosikkiNimet\Tehtävä13_SuosikkiNimet\obj\Debug\Tehtävä13_SuosikkiNimet.Form1.resources
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä13_SuosikkiNimet\Tehtävä13_SuosikkiNimet\obj\Debug\Tehtävä13_SuosikkiNimet.Properties.Resources.resources
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä13_SuosikkiNimet\Tehtävä13_SuosikkiNimet\obj\Debug\Tehtävä13_SuosikkiNimet.csproj.GenerateResource.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä13_SuosikkiNimet\Tehtävä13_SuosikkiNimet\obj\Debug\Tehtävä13_SuosikkiNimet.csproj.CoreCompileInputs.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä13_SuosikkiNimet\Tehtävä13_SuosikkiNimet\bin\Debug\Tehtävä13_SuosikkiNimet.exe.config
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä13_SuosikkiNimet\Tehtävä13_SuosikkiNimet\bin\Debug\Tehtävä13_SuosikkiNimet.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä13_SuosikkiNimet\Tehtävä13_SuosikkiNimet\bin\Debug\Tehtävä13_SuosikkiNimet.pdb
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä13_SuosikkiNimet\Tehtävä13_SuosikkiNimet\obj\Debug\Tehtävä13_SuosikkiNimet.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\Tehtävä13_SuosikkiNimet\Tehtävä13_SuosikkiNimet\obj\Debug\Tehtävä13_SuosikkiNimet.pdb

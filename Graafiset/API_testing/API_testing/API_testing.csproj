@@ -53,6 +53,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ApiHelper.cs" />
+    <Compile Include="ComicModel.cs" />
     <Compile Include="ComicProsessor.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>

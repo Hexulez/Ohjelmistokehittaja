@@ -1,0 +1,16 @@
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\API_testing\API_testing\obj\Debug\API_testing.csproj.AssemblyReference.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\API_testing\API_testing\obj\Debug\API_testing.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\API_testing\API_testing\obj\Debug\API_testing.Main.resources
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\API_testing\API_testing\obj\Debug\API_testing.Properties.Resources.resources
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\API_testing\API_testing\obj\Debug\API_testing.csproj.GenerateResource.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\API_testing\API_testing\obj\Debug\API_testing.csproj.CoreCompileInputs.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\API_testing\API_testing\bin\Debug\API_testing.exe.config
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\API_testing\API_testing\bin\Debug\API_testing.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\API_testing\API_testing\bin\Debug\API_testing.pdb
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\API_testing\API_testing\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\API_testing\API_testing\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\API_testing\API_testing\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\API_testing\API_testing\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\API_testing\API_testing\obj\Debug\API_testing.csproj.CopyComplete
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\API_testing\API_testing\obj\Debug\API_testing.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Graafiset\API_testing\API_testing\obj\Debug\API_testing.pdb

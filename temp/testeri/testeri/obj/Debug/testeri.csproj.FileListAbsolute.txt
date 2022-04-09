@@ -1,0 +1,16 @@
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\testeri\testeri\obj\Debug\testeri.csproj.AssemblyReference.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\testeri\testeri\obj\Debug\testeri.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\testeri\testeri\obj\Debug\testeri.Form1.resources
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\testeri\testeri\obj\Debug\testeri.Properties.Resources.resources
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\testeri\testeri\obj\Debug\testeri.csproj.GenerateResource.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\testeri\testeri\obj\Debug\testeri.csproj.CoreCompileInputs.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\testeri\testeri\bin\Debug\testeri.exe.config
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\testeri\testeri\bin\Debug\testeri.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\testeri\testeri\bin\Debug\testeri.pdb
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\testeri\testeri\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\testeri\testeri\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\testeri\testeri\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\testeri\testeri\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\testeri\testeri\obj\Debug\testeri.csproj.CopyComplete
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\testeri\testeri\obj\Debug\testeri.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\testeri\testeri\obj\Debug\testeri.pdb

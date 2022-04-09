@@ -1,0 +1,11 @@
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\Tehtävä15_sekunttikello\Tehtävä15_sekunttikello\bin\Debug\Tehtävä15_sekunttikello.exe.config
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\Tehtävä15_sekunttikello\Tehtävä15_sekunttikello\bin\Debug\Tehtävä15_sekunttikello.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\Tehtävä15_sekunttikello\Tehtävä15_sekunttikello\bin\Debug\Tehtävä15_sekunttikello.pdb
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\Tehtävä15_sekunttikello\Tehtävä15_sekunttikello\obj\Debug\Tehtävä15_sekunttikello.csproj.AssemblyReference.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\Tehtävä15_sekunttikello\Tehtävä15_sekunttikello\obj\Debug\Tehtävä15_sekunttikello.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\Tehtävä15_sekunttikello\Tehtävä15_sekunttikello\obj\Debug\Tehtävä15_sekunttikello.Form1.resources
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\Tehtävä15_sekunttikello\Tehtävä15_sekunttikello\obj\Debug\Tehtävä15_sekunttikello.Properties.Resources.resources
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\Tehtävä15_sekunttikello\Tehtävä15_sekunttikello\obj\Debug\Tehtävä15_sekunttikello.csproj.GenerateResource.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\Tehtävä15_sekunttikello\Tehtävä15_sekunttikello\obj\Debug\Tehtävä15_sekunttikello.csproj.CoreCompileInputs.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\Tehtävä15_sekunttikello\Tehtävä15_sekunttikello\obj\Debug\Tehtävä15_sekunttikello.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\Tehtävä15_sekunttikello\Tehtävä15_sekunttikello\obj\Debug\Tehtävä15_sekunttikello.pdb

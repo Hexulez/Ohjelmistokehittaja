@@ -24,9 +24,11 @@ namespace Harjoitus12_10Kysymystä
         {
             Logic();
         }
+
+        //logic
         public void Logic()
         {
-            if (kysymysNmr == 11 )
+            if (kysymysNmr == 11 ) //katkaisee kyselyn kun viimeinen kymmenes vastaus on annettu
             {
                 vastausLB.Text = "oikeita vastastauksia oli " + oikein + ".";
                 resetBT.Visible = true;
@@ -68,7 +70,7 @@ namespace Harjoitus12_10Kysymystä
         }
 
         
-
+        //tarkistaa mikä vastaus on valittu
         public void Tarkista()
         {
             if (radio1.Checked == true)
@@ -105,16 +107,18 @@ namespace Harjoitus12_10Kysymystä
             radio4.Checked = false;
         }
 
-        private void builder(int x)
+
+        //kasaa kysymykset satunnaiseen järjestykseen
+        private void builder(int oikeanVastauksenNumero)
         {
-            
+            int counter = 0;        //laskuri joka laskee että vääriä vastauksia tulee oikeam määrä + auttaa ne paikalleen
+            string[] wrong = satunnaiset(); //luodaan taulukko missä väärät vastaukset on satunnaisessa järjestyksessä
             Random rand = new Random();
-            oikeaVastausNmr = rand.Next(4);
-            int counter = 0;
+            oikeaVastausNmr = rand.Next(4); //määritellään oikean vastauksen paikka
             Kysymykset kysymykset = new Kysymykset();
-            kysymysGB.Text = kysymykset.Kysy(kysymysNmr);
-            List<string> list = new List<string>();
-            for (int i = 0; i < 4; i++)
+            kysymysGB.Text = kysymykset.Kysy(kysymysNmr); //otetaan oikea kysymys laatikkoon
+            List<string> list = new List<string>(); //luodaan uusi lista minkä avulla laitetaan myöhemmin vastaukset satunnaiseen järjestykseen
+            for (int i = 0; i < 4; i++)         //loop jolla luodaan lista josta lopulta vastaukset menevät satunnaisille paikoilleen
             if (oikeaVastausNmr == list.Count)
             {
                 list.Add(kysymykset.OVastaus(kysymysNmr));
@@ -122,15 +126,41 @@ namespace Harjoitus12_10Kysymystä
             }
             else
             {
-                list.Add(kysymykset.Vaihtoehdot(kysymysNmr, counter));
+                    list.Add(wrong[counter]);
                     counter++;
             }
             
-            
-            object[] radiot = { radio1.Text = list[0],radio2.Text = list[1],radio3.Text = list[2],radio4.Text = list[3]};
+            //object taulukko on tehty jotta ei tarvi tehdä niin pitkää if else listausta
+            object[] radiot = { radio1.Text = list[0],radio2.Text = list[1],radio3.Text = list[2],radio4.Text = list[3]}; 
 
             counter = 0;
         }
 
+        //laittaa väärät vastaukset satunnaiseen järjestykseen.
+        private string[] satunnaiset()
+        {
+            int del=0;
+            Kysymykset kysymykset = new Kysymykset();
+            Random rdm = new Random();
+            List<string> vastaukset = new List<string>();
+            List<string> satunnaiset = new List<string>();
+            for (int i = 0; i < 3; i++)
+            {
+                vastaukset.Add(kysymykset.Vaihtoehdot(kysymysNmr, i));
+            }
+            for (int u = 0; u < 3; u++)
+            {
+
+                del = rdm.Next(vastaukset.Count);
+                satunnaiset.Add(vastaukset[del]);
+                vastaukset.RemoveAt(del);
+            }
+
+            return satunnaiset.ToArray();
+
+
+        }
+            
+        
     }
 }
