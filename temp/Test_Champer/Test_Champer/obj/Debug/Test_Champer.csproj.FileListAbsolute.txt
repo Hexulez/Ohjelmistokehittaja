@@ -1,0 +1,8 @@
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\Test_Champer\Test_Champer\bin\Debug\Test_Champer.exe.config
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\Test_Champer\Test_Champer\bin\Debug\Test_Champer.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\Test_Champer\Test_Champer\bin\Debug\Test_Champer.pdb
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\Test_Champer\Test_Champer\obj\Debug\Test_Champer.csproj.AssemblyReference.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\Test_Champer\Test_Champer\obj\Debug\Test_Champer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\Test_Champer\Test_Champer\obj\Debug\Test_Champer.csproj.CoreCompileInputs.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\Test_Champer\Test_Champer\obj\Debug\Test_Champer.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\Test_Champer\Test_Champer\obj\Debug\Test_Champer.pdb

@@ -1,0 +1,8 @@
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\ConsoleTester\ConsoleTester\bin\Debug\ConsoleTester.exe.config
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\ConsoleTester\ConsoleTester\bin\Debug\ConsoleTester.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\ConsoleTester\ConsoleTester\bin\Debug\ConsoleTester.pdb
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\ConsoleTester\ConsoleTester\obj\Debug\ConsoleTester.csproj.AssemblyReference.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\ConsoleTester\ConsoleTester\obj\Debug\ConsoleTester.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\ConsoleTester\ConsoleTester\obj\Debug\ConsoleTester.csproj.CoreCompileInputs.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\ConsoleTester\ConsoleTester\obj\Debug\ConsoleTester.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\ConsoleTester\ConsoleTester\obj\Debug\ConsoleTester.pdb

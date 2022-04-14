@@ -40,6 +40,10 @@
             this.restartBT = new System.Windows.Forms.Button();
             this.selectCB = new System.Windows.Forms.ComboBox();
             this.statusLB = new System.Windows.Forms.Label();
+            this.winP1 = new System.Windows.Forms.Label();
+            this.winP2 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.TestiLB = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // but1
@@ -150,6 +154,7 @@
             this.restartBT.TabIndex = 2;
             this.restartBT.Text = "Restart";
             this.restartBT.UseVisualStyleBackColor = true;
+            this.restartBT.Click += new System.EventHandler(this.restartBT_Click);
             // 
             // selectCB
             // 
@@ -157,8 +162,9 @@
             this.selectCB.Location = new System.Drawing.Point(657, 369);
             this.selectCB.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
             this.selectCB.Name = "selectCB";
-            this.selectCB.Size = new System.Drawing.Size(186, 37);
+            this.selectCB.Size = new System.Drawing.Size(186, 28);
             this.selectCB.TabIndex = 3;
+            this.selectCB.SelectedIndexChanged += new System.EventHandler(this.selectCB_SelectedIndexChanged);
             // 
             // statusLB
             // 
@@ -166,15 +172,58 @@
             this.statusLB.Location = new System.Drawing.Point(29, 50);
             this.statusLB.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.statusLB.Name = "statusLB";
-            this.statusLB.Size = new System.Drawing.Size(79, 29);
+            this.statusLB.Size = new System.Drawing.Size(132, 20);
             this.statusLB.TabIndex = 4;
-            this.statusLB.Text = "label1";
+            this.statusLB.Text = "Pelaaja X aloittaa";
+            // 
+            // winP1
+            // 
+            this.winP1.AutoSize = true;
+            this.winP1.Location = new System.Drawing.Point(588, 50);
+            this.winP1.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.winP1.Name = "winP1";
+            this.winP1.Size = new System.Drawing.Size(99, 20);
+            this.winP1.TabIndex = 4;
+            this.winP1.Text = "Pelaaja 1 (X)";
+            // 
+            // winP2
+            // 
+            this.winP2.AutoSize = true;
+            this.winP2.Location = new System.Drawing.Point(588, 70);
+            this.winP2.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.winP2.Name = "winP2";
+            this.winP2.Size = new System.Drawing.Size(100, 20);
+            this.winP2.TabIndex = 4;
+            this.winP2.Text = "Pelaaja 2 (O)";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(588, 30);
+            this.label3.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(55, 20);
+            this.label3.TabIndex = 4;
+            this.label3.Text = "Voitot:";
+            // 
+            // TestiLB
+            // 
+            this.TestiLB.AutoSize = true;
+            this.TestiLB.Location = new System.Drawing.Point(125, 129);
+            this.TestiLB.Name = "TestiLB";
+            this.TestiLB.Size = new System.Drawing.Size(43, 20);
+            this.TestiLB.TabIndex = 5;
+            this.TestiLB.Text = "Testi";
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(14F, 29F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(875, 665);
+            this.Controls.Add(this.TestiLB);
+            this.Controls.Add(this.winP2);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.winP1);
             this.Controls.Add(this.statusLB);
             this.Controls.Add(this.selectCB);
             this.Controls.Add(this.restartBT);
@@ -210,6 +259,10 @@
         private System.Windows.Forms.Button restartBT;
         private System.Windows.Forms.ComboBox selectCB;
         private System.Windows.Forms.Label statusLB;
+        private System.Windows.Forms.Label winP1;
+        private System.Windows.Forms.Label winP2;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label TestiLB;
     }
 }
 

@@ -33,19 +33,24 @@
             this.phoneTB = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.firstNameTB = new System.Windows.Forms.TextBox();
-            this.emailT = new System.Windows.Forms.TextBox();
+            this.emailTB = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.lastNameTB = new System.Windows.Forms.TextBox();
-            this.textBox6 = new System.Windows.Forms.TextBox();
+            this.opiskelijaNroTB = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.tietoTauluDG = new System.Windows.Forms.DataGridView();
+            this.eraseBT = new System.Windows.Forms.Button();
+            this.tallenneBT = new System.Windows.Forms.Button();
+            this.paivitaBT = new System.Windows.Forms.Button();
+            this.poistaBT = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.tietoTauluDG)).BeginInit();
             this.SuspendLayout();
             // 
             // idTB
             // 
+            this.idTB.Enabled = false;
             this.idTB.Location = new System.Drawing.Point(177, 35);
             this.idTB.Name = "idTB";
             this.idTB.Size = new System.Drawing.Size(221, 29);
@@ -83,12 +88,12 @@
             this.firstNameTB.Size = new System.Drawing.Size(221, 29);
             this.firstNameTB.TabIndex = 0;
             // 
-            // emailT
+            // emailTB
             // 
-            this.emailT.Location = new System.Drawing.Point(615, 70);
-            this.emailT.Name = "emailT";
-            this.emailT.Size = new System.Drawing.Size(221, 29);
-            this.emailT.TabIndex = 0;
+            this.emailTB.Location = new System.Drawing.Point(615, 70);
+            this.emailTB.Name = "emailTB";
+            this.emailTB.Size = new System.Drawing.Size(221, 29);
+            this.emailTB.TabIndex = 0;
             // 
             // label3
             // 
@@ -115,12 +120,12 @@
             this.lastNameTB.Size = new System.Drawing.Size(221, 29);
             this.lastNameTB.TabIndex = 0;
             // 
-            // textBox6
+            // opiskelijaNroTB
             // 
-            this.textBox6.Location = new System.Drawing.Point(615, 105);
-            this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(221, 29);
-            this.textBox6.TabIndex = 0;
+            this.opiskelijaNroTB.Location = new System.Drawing.Point(615, 105);
+            this.opiskelijaNroTB.Name = "opiskelijaNroTB";
+            this.opiskelijaNroTB.Size = new System.Drawing.Size(221, 29);
+            this.opiskelijaNroTB.TabIndex = 0;
             // 
             // label5
             // 
@@ -143,16 +148,61 @@
             // tietoTauluDG
             // 
             this.tietoTauluDG.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.tietoTauluDG.Location = new System.Drawing.Point(56, 175);
+            this.tietoTauluDG.Location = new System.Drawing.Point(56, 197);
             this.tietoTauluDG.Name = "tietoTauluDG";
             this.tietoTauluDG.Size = new System.Drawing.Size(780, 235);
             this.tietoTauluDG.TabIndex = 2;
+            this.tietoTauluDG.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.tietoTauluDG_CellContentClick);
+            // 
+            // eraseBT
+            // 
+            this.eraseBT.Location = new System.Drawing.Point(74, 149);
+            this.eraseBT.Name = "eraseBT";
+            this.eraseBT.Size = new System.Drawing.Size(112, 31);
+            this.eraseBT.TabIndex = 3;
+            this.eraseBT.Text = "Tyhjennä";
+            this.eraseBT.UseVisualStyleBackColor = true;
+            this.eraseBT.Click += new System.EventHandler(this.eraseBT_Click);
+            // 
+            // tallenneBT
+            // 
+            this.tallenneBT.Location = new System.Drawing.Point(228, 149);
+            this.tallenneBT.Name = "tallenneBT";
+            this.tallenneBT.Size = new System.Drawing.Size(112, 31);
+            this.tallenneBT.TabIndex = 3;
+            this.tallenneBT.Text = "Tallenna";
+            this.tallenneBT.UseVisualStyleBackColor = true;
+            this.tallenneBT.Click += new System.EventHandler(this.tallenneBT_Click);
+            // 
+            // paivitaBT
+            // 
+            this.paivitaBT.Location = new System.Drawing.Point(380, 149);
+            this.paivitaBT.Name = "paivitaBT";
+            this.paivitaBT.Size = new System.Drawing.Size(112, 31);
+            this.paivitaBT.TabIndex = 3;
+            this.paivitaBT.Text = "Päivitä";
+            this.paivitaBT.UseVisualStyleBackColor = true;
+            this.paivitaBT.Click += new System.EventHandler(this.paivitaBT_Click);
+            // 
+            // poistaBT
+            // 
+            this.poistaBT.Location = new System.Drawing.Point(533, 149);
+            this.poistaBT.Name = "poistaBT";
+            this.poistaBT.Size = new System.Drawing.Size(112, 31);
+            this.poistaBT.TabIndex = 3;
+            this.poistaBT.Text = "Poista";
+            this.poistaBT.UseVisualStyleBackColor = true;
+            this.poistaBT.Click += new System.EventHandler(this.poistaBT_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(886, 457);
+            this.Controls.Add(this.poistaBT);
+            this.Controls.Add(this.paivitaBT);
+            this.Controls.Add(this.tallenneBT);
+            this.Controls.Add(this.eraseBT);
             this.Controls.Add(this.tietoTauluDG);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label4);
@@ -160,16 +210,17 @@
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.textBox6);
-            this.Controls.Add(this.emailT);
+            this.Controls.Add(this.opiskelijaNroTB);
+            this.Controls.Add(this.emailTB);
             this.Controls.Add(this.phoneTB);
             this.Controls.Add(this.lastNameTB);
             this.Controls.Add(this.firstNameTB);
             this.Controls.Add(this.idTB);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.Margin = new System.Windows.Forms.Padding(6);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.tietoTauluDG)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -183,14 +234,18 @@
         private System.Windows.Forms.TextBox phoneTB;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox firstNameTB;
-        private System.Windows.Forms.TextBox emailT;
+        private System.Windows.Forms.TextBox emailTB;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox lastNameTB;
-        private System.Windows.Forms.TextBox textBox6;
+        private System.Windows.Forms.TextBox opiskelijaNroTB;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.DataGridView tietoTauluDG;
+        private System.Windows.Forms.Button eraseBT;
+        private System.Windows.Forms.Button tallenneBT;
+        private System.Windows.Forms.Button paivitaBT;
+        private System.Windows.Forms.Button poistaBT;
     }
 }
 
