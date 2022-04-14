@@ -16,16 +16,18 @@ namespace TicTac
             int deep = 0;
             int movesleft = 0;
             int player = 1, moves = -999999,  maxScore = -999999999;
+            /*
             for (int i = 0; i < buttonText.Length; i++)
             {
+
                 if (buttonText[i] == "")
                 {
                     Console.WriteLine("testi");
                     movesleft++;
                     score = testMiniMax(buttonText, counter, player,deep);
                     Console.WriteLine("palautuu");
-                    Console.WriteLine(testMiniMax(buttonText, counter, player,deep));
-                    Console.WriteLine(i);
+                    //Console.WriteLine(testMiniMax(buttonText, counter, player,deep));
+                    //Console.WriteLine(i);
                     Console.WriteLine("nämä");
                     if (score > maxScore) 
                     {
@@ -37,6 +39,10 @@ namespace TicTac
                 }
                 
             }
+
+            */
+
+            moves = testMiniMax(buttonText, counter, player, deep);
             Console.WriteLine("nyt");
             Console.WriteLine(moves);
             return buttonArr[moves];
@@ -46,7 +52,7 @@ namespace TicTac
         {
             counter++;
             deep++;
-            
+            Dictionary<int, int> map = new Dictionary<int, int>();
             List<int> siirrot = new List<int>();
             string voitto;
             if (player == 2)
@@ -77,22 +83,26 @@ namespace TicTac
                     voitto = LOGIC.Row(buttonText);
                     if (voitto == "X")
                     {
-                        siirrot.Add(-100 + counter);
+                        map.Add(i, -100 + counter);
+                        //siirrot.Add(-100 + counter);
                         end = true;
                     }
                     else if (voitto == "O")
                     {
-                        siirrot.Add(100 - counter);
+                        map.Add(i, 100 - counter);
+                        //siirrot.Add(100 - counter);
                         end = true;
                     }
                     else if (voitto == "" && counter == 9)
                     {
-                        siirrot.Add(0 + counter);
+                        map.Add(i, 0 + counter);
+                        //siirrot.Add(0 + counter);
                         end = true;
                     }
                     else if(voitto == "" && counter < 9)
                     {
-                        siirrot.Add(testMiniMax(state, counter,player, deep));
+                        map.Add(i,testMiniMax(state, counter, player, deep));
+                        //siirrot.Add(testMiniMax(state, counter,player, deep));
                         end = true;
                     }
                     
@@ -107,8 +117,18 @@ namespace TicTac
 
                 }
             }
+            
+            if (deep == 1)
+            {
+                List<int> list = new List<int>();
+                list = map.Values.ToList();
+                
+                Console.WriteLine(map.Keys.ToString());
+                return list.IndexOf(list.Max());
+            }
+            
             int max = -99999;
-
+            
             //Console.WriteLine("lista" + siirrot.Count);
             if (player == 2 )
             {
