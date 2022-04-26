@@ -122,9 +122,17 @@ namespace TicTac
             {
                 List<int> list = new List<int>();
                 list = map.Values.ToList();
-                
+                int mones = -1, suurin = -9999999;                
+                foreach (int i in list)
+                {
+                    mones++;
+                    if (i > suurin)
+                    {
+                        suurin = mones;
+                    }
+                }
                 Console.WriteLine(map.Keys.ToString());
-                return list.IndexOf(list.Max());
+                return suurin;
             }
             
             int max = -99999;

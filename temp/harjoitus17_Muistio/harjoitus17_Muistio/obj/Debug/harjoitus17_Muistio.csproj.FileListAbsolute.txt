@@ -1,0 +1,11 @@
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\harjoitus17_Muistio\harjoitus17_Muistio\bin\Debug\harjoitus17_Muistio.exe.config
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\harjoitus17_Muistio\harjoitus17_Muistio\bin\Debug\harjoitus17_Muistio.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\harjoitus17_Muistio\harjoitus17_Muistio\bin\Debug\harjoitus17_Muistio.pdb
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\harjoitus17_Muistio\harjoitus17_Muistio\obj\Debug\harjoitus17_Muistio.csproj.AssemblyReference.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\harjoitus17_Muistio\harjoitus17_Muistio\obj\Debug\harjoitus17_Muistio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\harjoitus17_Muistio\harjoitus17_Muistio\obj\Debug\harjoitus17_Muistio.Form1.resources
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\harjoitus17_Muistio\harjoitus17_Muistio\obj\Debug\harjoitus17_Muistio.Properties.Resources.resources
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\harjoitus17_Muistio\harjoitus17_Muistio\obj\Debug\harjoitus17_Muistio.csproj.GenerateResource.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\harjoitus17_Muistio\harjoitus17_Muistio\obj\Debug\harjoitus17_Muistio.csproj.CoreCompileInputs.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\harjoitus17_Muistio\harjoitus17_Muistio\obj\Debug\harjoitus17_Muistio.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\temp\harjoitus17_Muistio\harjoitus17_Muistio\obj\Debug\harjoitus17_Muistio.pdb

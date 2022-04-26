@@ -66,7 +66,7 @@ namespace Tehtava20_oppilasHallinta
 
             adapteri.SelectCommand = komento;
             adapteri.Fill(taulu);
-
+            MessageBox.Show(adapteri.ToString());
             return taulu;
         }
 
