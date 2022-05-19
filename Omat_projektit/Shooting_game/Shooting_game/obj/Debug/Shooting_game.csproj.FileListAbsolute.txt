@@ -1,0 +1,11 @@
+C:\Users\Henry\source\repos\Hexulez\Ohjelmistokehittaja\Omat_projektit\Shooting_game\Shooting_game\obj\Debug\Shooting_game.csproj.AssemblyReference.cache
+C:\Users\Henry\source\repos\Hexulez\Ohjelmistokehittaja\Omat_projektit\Shooting_game\Shooting_game\obj\Debug\Shooting_game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Henry\source\repos\Hexulez\Ohjelmistokehittaja\Omat_projektit\Shooting_game\Shooting_game\obj\Debug\Shooting_game.shootingGameFM.resources
+C:\Users\Henry\source\repos\Hexulez\Ohjelmistokehittaja\Omat_projektit\Shooting_game\Shooting_game\obj\Debug\Shooting_game.Properties.Resources.resources
+C:\Users\Henry\source\repos\Hexulez\Ohjelmistokehittaja\Omat_projektit\Shooting_game\Shooting_game\obj\Debug\Shooting_game.csproj.GenerateResource.cache
+C:\Users\Henry\source\repos\Hexulez\Ohjelmistokehittaja\Omat_projektit\Shooting_game\Shooting_game\obj\Debug\Shooting_game.csproj.CoreCompileInputs.cache
+C:\Users\Henry\source\repos\Hexulez\Ohjelmistokehittaja\Omat_projektit\Shooting_game\Shooting_game\bin\Debug\Shooting_game.exe.config
+C:\Users\Henry\source\repos\Hexulez\Ohjelmistokehittaja\Omat_projektit\Shooting_game\Shooting_game\bin\Debug\Shooting_game.exe
+C:\Users\Henry\source\repos\Hexulez\Ohjelmistokehittaja\Omat_projektit\Shooting_game\Shooting_game\bin\Debug\Shooting_game.pdb
+C:\Users\Henry\source\repos\Hexulez\Ohjelmistokehittaja\Omat_projektit\Shooting_game\Shooting_game\obj\Debug\Shooting_game.exe
+C:\Users\Henry\source\repos\Hexulez\Ohjelmistokehittaja\Omat_projektit\Shooting_game\Shooting_game\obj\Debug\Shooting_game.pdb
