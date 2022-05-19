@@ -9,3 +9,14 @@ C:\Users\Henry\source\repos\Hexulez\Ohjelmistokehittaja\Omat_projektit\CarGame\C
 C:\Users\Henry\source\repos\Hexulez\Ohjelmistokehittaja\Omat_projektit\CarGame\CarGame\obj\Debug\CarGame.csproj.CoreCompileInputs.cache
 C:\Users\Henry\source\repos\Hexulez\Ohjelmistokehittaja\Omat_projektit\CarGame\CarGame\obj\Debug\CarGame.exe
 C:\Users\Henry\source\repos\Hexulez\Ohjelmistokehittaja\Omat_projektit\CarGame\CarGame\obj\Debug\CarGame.pdb
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Omat_projektit\CarGame\CarGame\bin\Debug\CarGame.exe.config
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Omat_projektit\CarGame\CarGame\bin\Debug\CarGame.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Omat_projektit\CarGame\CarGame\bin\Debug\CarGame.pdb
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Omat_projektit\CarGame\CarGame\obj\Debug\CarGame.csproj.AssemblyReference.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Omat_projektit\CarGame\CarGame\obj\Debug\CarGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Omat_projektit\CarGame\CarGame\obj\Debug\CarGame.CarGame.resources
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Omat_projektit\CarGame\CarGame\obj\Debug\CarGame.Properties.Resources.resources
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Omat_projektit\CarGame\CarGame\obj\Debug\CarGame.csproj.GenerateResource.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Omat_projektit\CarGame\CarGame\obj\Debug\CarGame.csproj.CoreCompileInputs.cache
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Omat_projektit\CarGame\CarGame\obj\Debug\CarGame.exe
+C:\Users\Hexulez\source\repos\Ohjelmistokehittaja\Omat_projektit\CarGame\CarGame\obj\Debug\CarGame.pdb

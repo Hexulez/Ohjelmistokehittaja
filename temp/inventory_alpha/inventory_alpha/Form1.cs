@@ -37,6 +37,8 @@ namespace inventory_alpha
         {
             MessageBox.Show(sender.ToString());
             PictureBox testi = sender as PictureBox;
+            testi.BorderStyle = BorderStyle.FixedSingle;
+            
 
             if (ItemName == testi.Image)
             {
