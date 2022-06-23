@@ -23,18 +23,47 @@ namespace CarGame
         int enemyMove = 5;
         int x, y, points;
         int spawner = 50, spawnerReset = 50;
-        
+        //int[] difficulty = { 45, 40, 35, 30, 25, 20, 15, 10 };
+        Dictionary<int, int> difficulty = new Dictionary<int, int>()
+        {
+            {10, 45},
+            {20, 40},
+            {30, 35},
+            {40, 30},
+            {50, 25},
+            {60, 20},
+            {70, 15},
+            {80, 10}
+        };
+        Dictionary<int, int> speed = new Dictionary<int, int>()
+        {
+            {5, 90},
+            {15, 80},
+            {25, 70},
+            {35, 60},
+            {45, 50},
+            {55, 40},
+            {65, 30},
+            {75, 20}
+        };
 
         private void enemyTimer_Tick(object sender, EventArgs e)
         {
             makeEnemy();
-
+            /*
+            if (myCar.Top < 10 || myCar.Top > 330)
+            {
+                makeBorder();
+            }
+            */
             foreach (PictureBox item in enemyList.ToList())
             {
                 item.Left -= enemyMove;
                 if (myCar.Bounds.IntersectsWith(item.Bounds))
                 {
-                    MessageBox.Show("pöö");
+                    enemyTimer.Stop();
+                    playAgainBT.Visible = true;
+                    playAgainBT.Enabled = true;
                 }
 
                 
@@ -44,34 +73,97 @@ namespace CarGame
                     enemyList.Remove(item);
                     this.Controls.Remove(item);
                     points++;
+                    PointsLB.Text = "Points " + points;
                 }
                 
             }
+            try
+            {
+                spawnerReset = difficulty[points];
+                enemyTimer.Interval = speed[points];
+            }
+            catch (Exception ex) { };
+            
+            
         }
 
-       
+
+        private void PlayAgain(object sender, EventArgs e)
+        {
+            spawner = 50;
+            spawnerReset = 50;
+            points = 0;
+            PointsLB.Text = "Points: " + points;
+            enemyTimer.Interval = 100;
+            foreach (PictureBox item in enemyList.ToList())
+            {
+                enemyList.Remove(item);
+                this.Controls.Remove(item);
+            }
+            playAgainBT.Visible = false;
+            playAgainBT.Enabled = false;
+            enemyTimer.Start();
+            
+        }
+
 
         private void carTimer_Tick(object sender, EventArgs e)
         {
             if (goUp)
             {
-                myCar.Top -= playerMove;
+                
+                if (myCar.Top > 0)
+                {
+                    myCar.Top -= playerMove;
+                }
+                
             }
             else if (goDown)
             {
-                myCar.Top += playerMove;
+                if (myCar.Top < 330)
+                {
+                    
+                    myCar.Top += playerMove;
+                }
+                
             }
+            else if (goLeft)
+            {
+                if (myCar.Left > 0)
+                {
+                    myCar.Left -= playerMove;
+                }
+            }
+            else if (goRight)
+            {
+                if (myCar.Left < 600)
+                {
+                    
+                    myCar.Left += playerMove;
+                }
+
+}
         }
 
         private void CarGame_KeyDown(object sender, KeyEventArgs e)
         {
             if (e.KeyCode == Keys.Up)
             {
+                
                 goUp = true;
             }
             else if (e.KeyCode == Keys.Down)
             {
                 goDown = true;
+            }
+            if (e.KeyCode == Keys.Left)
+            {
+
+                goLeft = true;
+            }
+            else if (e.KeyCode == Keys.Right)
+            {
+                goRight = true;
             }
         }
 
@@ -85,6 +177,14 @@ namespace CarGame
             {
                 goDown = false;
             }
+            if (e.KeyCode == Keys.Left)
+            {
+                goLeft = false;
+            }
+            else if (e.KeyCode == Keys.Right)
+            {
+                goRight= false;
+            }
         }
 
         private void makeEnemy()
@@ -95,7 +195,7 @@ namespace CarGame
                 PictureBox enemy = new PictureBox();
 
                 enemy.Width = 50;
-                enemy.Height = 50;
+                enemy.Height = 200;
                 enemy.BackColor = Color.Red;
 
                 x = this.ClientSize.Width - enemy.Width;
@@ -113,5 +213,24 @@ namespace CarGame
             
         }
 
+        private void makeBorder()
+        {
+            PictureBox enemy = new PictureBox();
+
+            enemy.Width = 50;
+            enemy.Height = 30;
+            enemy.BackColor = Color.Red;
+
+            
+            enemy.Location = new Point(this.ClientSize.Width - enemy.Width, 10);
+            enemyList.Add(enemy);
+            this.Controls.Add(enemy);
+
+            enemy.Location = new Point(this.ClientSize.Width - enemy.Width, 300);
+            enemyList.Add(enemy);
+            this.Controls.Add(enemy);
+
+            
+        }
     }
 }
