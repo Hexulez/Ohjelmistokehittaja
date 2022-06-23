@@ -33,6 +33,11 @@ namespace Shooting_game
         private void gameTimer_Tick(object sender, EventArgs e)
         {
             Moving();
+            foreach(PictureBox bullet in ammo)
+            {
+                
+            }
+            
         }
 
         private void shootingGameFM_KeyDown(object sender, KeyEventArgs e)
@@ -41,6 +46,13 @@ namespace Shooting_game
             if (e.KeyCode == Keys.Right) { goRight = true; }
             if (e.KeyCode == Keys.Up) { goUp = true; }
             if (e.KeyCode == Keys.Down) { goDown = true; }
+        }
+
+        private void shootingGameFM_MouseClick(object sender, MouseEventArgs e)
+        {
+            PictureBox bullet =new PictureBox();
+            ammo.Add(bullet);
+            bullet.Location = new Point(e.X, e.Y);
         }
 
         private void shootingGameFM_KeyUp(object sender, KeyEventArgs e)
@@ -67,7 +79,11 @@ namespace Shooting_game
             if (flyX < flyY)
             {
                 //float littleMove = (flyX - flyY) / (flyY - flyX);
-                float littleMove = flyX / flyY;
+                //float littleMove = flyX / flyY;
+                float  littleMoveX =  flyX / flyY;
+                float littleMoveY = flyY / flyX;
+                Point point = new Point(littleMoveX, )
+                
             }
 
         }

@@ -1,0 +1,11 @@
+C:\Users\Henry\source\repos\Hexulez\Ohjelmistokehittaja\Omat_projektit\TicTacToe v2\TicTacToe v2\bin\Debug\TicTacToe v2.exe.config
+C:\Users\Henry\source\repos\Hexulez\Ohjelmistokehittaja\Omat_projektit\TicTacToe v2\TicTacToe v2\bin\Debug\TicTacToe v2.exe
+C:\Users\Henry\source\repos\Hexulez\Ohjelmistokehittaja\Omat_projektit\TicTacToe v2\TicTacToe v2\bin\Debug\TicTacToe v2.pdb
+C:\Users\Henry\source\repos\Hexulez\Ohjelmistokehittaja\Omat_projektit\TicTacToe v2\TicTacToe v2\obj\Debug\TicTacToe v2.csproj.AssemblyReference.cache
+C:\Users\Henry\source\repos\Hexulez\Ohjelmistokehittaja\Omat_projektit\TicTacToe v2\TicTacToe v2\obj\Debug\TicTacToe v2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Henry\source\repos\Hexulez\Ohjelmistokehittaja\Omat_projektit\TicTacToe v2\TicTacToe v2\obj\Debug\TicTacToe_v2.Form1.resources
+C:\Users\Henry\source\repos\Hexulez\Ohjelmistokehittaja\Omat_projektit\TicTacToe v2\TicTacToe v2\obj\Debug\TicTacToe_v2.Properties.Resources.resources
+C:\Users\Henry\source\repos\Hexulez\Ohjelmistokehittaja\Omat_projektit\TicTacToe v2\TicTacToe v2\obj\Debug\TicTacToe v2.csproj.GenerateResource.cache
+C:\Users\Henry\source\repos\Hexulez\Ohjelmistokehittaja\Omat_projektit\TicTacToe v2\TicTacToe v2\obj\Debug\TicTacToe v2.csproj.CoreCompileInputs.cache
+C:\Users\Henry\source\repos\Hexulez\Ohjelmistokehittaja\Omat_projektit\TicTacToe v2\TicTacToe v2\obj\Debug\TicTacToe v2.exe
+C:\Users\Henry\source\repos\Hexulez\Ohjelmistokehittaja\Omat_projektit\TicTacToe v2\TicTacToe v2\obj\Debug\TicTacToe v2.pdb

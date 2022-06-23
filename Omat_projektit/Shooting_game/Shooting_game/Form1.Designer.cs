@@ -39,19 +39,20 @@
             // PlayerPB
             // 
             this.PlayerPB.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.PlayerPB.Location = new System.Drawing.Point(389, 291);
-            this.PlayerPB.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.PlayerPB.Location = new System.Drawing.Point(519, 358);
+            this.PlayerPB.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.PlayerPB.Name = "PlayerPB";
-            this.PlayerPB.Size = new System.Drawing.Size(33, 30);
+            this.PlayerPB.Size = new System.Drawing.Size(44, 37);
             this.PlayerPB.TabIndex = 0;
             this.PlayerPB.TabStop = false;
             // 
             // AimingPB
             // 
             this.AimingPB.BackColor = System.Drawing.SystemColors.ButtonShadow;
-            this.AimingPB.Location = new System.Drawing.Point(137, 158);
+            this.AimingPB.Location = new System.Drawing.Point(183, 194);
+            this.AimingPB.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.AimingPB.Name = "AimingPB";
-            this.AimingPB.Size = new System.Drawing.Size(27, 27);
+            this.AimingPB.Size = new System.Drawing.Size(36, 33);
             this.AimingPB.TabIndex = 1;
             this.AimingPB.TabStop = false;
             // 
@@ -62,16 +63,17 @@
             // 
             // shootingGameFM
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1072, 659);
+            this.ClientSize = new System.Drawing.Size(1429, 811);
             this.Controls.Add(this.AimingPB);
             this.Controls.Add(this.PlayerPB);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "shootingGameFM";
             this.Text = "Shooting_game";
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.shootingGameFM_KeyDown);
             this.KeyUp += new System.Windows.Forms.KeyEventHandler(this.shootingGameFM_KeyUp);
+            this.MouseClick += new System.Windows.Forms.MouseEventHandler(this.shootingGameFM_MouseClick);
             this.MouseMove += new System.Windows.Forms.MouseEventHandler(this.shootingGameFM_MouseMove);
             ((System.ComponentModel.ISupportInitialize)(this.PlayerPB)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.AimingPB)).EndInit();
